@@ -1,0 +1,2 @@
+# Use_VisionTransFormer
+画像データを用意すればそのままVisionTransFormerを使った学習が実施できます。
